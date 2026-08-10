@@ -1,6 +1,6 @@
 # 🤖 Intelligent AI Attendance System
 
-An AI-powered attendance management system that automates traditional classroom attendance using **Face Recognition and Voice Recognition technologies**.
+An AI-powered attendance management system that modernizes traditional classroom attendance using **Face Recognition and Voice Recognition technologies**.
 
 The system uses **Artificial Intelligence, Computer Vision, and Machine Learning** to identify students, reduce manual effort, prevent proxy attendance, and generate digital attendance records efficiently.
 
@@ -10,7 +10,7 @@ The system uses **Artificial Intelligence, Computer Vision, and Machine Learning
 
 Traditional attendance systems are time-consuming, require manual record keeping, and are prone to errors. Teachers spend valuable classroom time calling names and maintaining registers.
 
-The **Intelligent AI Attendance System** provides an automated solution where teachers can take attendance using classroom images or voice input. The system identifies registered students and records attendance digitally.
+The **Intelligent AI Attendance System** provides an AI-Powered solution where teachers can take attendance using classroom images or voice input. The system identifies registered students and records attendance digitally.
 
 The application provides separate dashboards for:
 
@@ -23,11 +23,11 @@ allowing teachers to manage attendance and students to track their attendance re
 
 # 🎯 Objectives
 
-- Automate classroom attendance using AI technologies
-- Reduce manual attendance workload for teachers
-- Minimize proxy attendance and human errors
-- Provide a digital attendance tracking platform
-- Improve accuracy and efficiency using Computer Vision and Machine Learning
+- Assist teachers in managing classroom attendance using AI-based recognition technology.
+- Reduce manual attendance workload for teachers.
+- Minimize proxy attendance and human errors.
+- Provide a digital platform for efficient attendance tracking and record management.
+- Improve accuracy and efficiency using Computer Vision and Machine Learning.
 
 ---
 
@@ -57,24 +57,25 @@ allowing teachers to manage attendance and students to track their attendance re
 
 - Detects students from classroom images
 - Uses face embeddings for identification
-- Automatically marks attendance
+- Assist in marking attendance with teacher verification and confirmation
 - Reduces manual attendance effort
 
 ---
 
 ## 🎙️ Voice Recognition Attendance
 
-- Supports voice-based attendance
-- Processes classroom voice input
-- Identifies students through voice recognition
+- Supports voice-based attendance input.
+- Processes classroom voice input for attendance.
+- Identifies students through voice recognition.
+- Assist in marking attendance with teacher verification and confirmation.
 
 ---
 
 ## 📊 Attendance Management
 
-- Digital attendance records
-- Easy monitoring of student attendance
-- Organized subject-wise attendance tracking
+- Digital attendance records.
+- Easy monitoring of student attendance.
+- Organized subject-wise attendance tracking.
 
 ---
 
@@ -102,11 +103,18 @@ allowing teachers to manage attendance and students to track their attendance re
 
 ## Libraries
 
-- OpenCV
-- Face Recognition
+- Streamlit
 - NumPy
 - Pandas
 - Scikit-learn
+- Dlib
+- Face Recognition Models
+- Resemblyzer
+- Librosa
+- Supabase
+- Bcrypt
+- Pillow
+- Segno
 
 ## Development Tools
 
