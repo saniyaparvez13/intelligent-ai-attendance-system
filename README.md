@@ -21,13 +21,14 @@ allowing teachers to manage attendance and students to track their attendance re
 
 ---
 
-# 🎯 Objectives
+## 🎯 Objectives
 
-- Assist teachers in managing classroom attendance using AI-based recognition technology.
-- Reduce manual attendance workload for teachers.
-- Minimize proxy attendance and human errors.
-- Provide a digital platform for efficient attendance tracking and record management.
-- Improve accuracy and efficiency using Computer Vision and Machine Learning.
+* Assist teachers in managing classroom attendance using **AI-based face and voice recognition technologies**.
+* Reduce the time and manual effort required for traditional attendance processes.
+* **Reduce proxy attendance and human errors** through AI-based student identification and teacher verification.
+* Provide a **digital platform for attendance tracking, subject management, and record management**.
+* Apply **Computer Vision, Machine Learning, and embedding-based identification** to support efficient attendance management.
+
 
 ---
 
